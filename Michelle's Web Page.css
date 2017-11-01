@@ -1,0 +1,29 @@
+
+body {
+	
+	background-color: rgb(255,255,255); 
+	background-image: url("https://imgur.com/iCyPTMu");
+	background-size: cover; 
+}
+
+h1	{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: #8B0000;
+	text-align: center;
+}
+
+img {
+	margin-top: 60px;
+	margin: 100px 0px 0px 0px;
+	border: 3px solid;
+	border-radius: 150px;
+	height: 300px;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+
+p   {
+	font-size: 30px;
+	color: #880000;
+}
